@@ -1,0 +1,5 @@
+A web-based framework (AgriSuit) that integrates various global data from different sources for
+multi-criteria based agricultural land suitability assessment based on the Google Earth Engine (GEE) platform is developed and presented. The platform enables online data gathering, training and classifying of
+land cover classes based on remote sensing and GIS techniques, as well as computation of suitability of
+land-use classes for agricultural activities. A demonstration of the framework on the Upper Blue Nile
+basin in Ethiopia is presented.
